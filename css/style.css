@@ -141,6 +141,41 @@
 }
 .nav5 {
     background-color: aquamarine;
-    margin-top: 8px;
     padding: 60px;
+}
+.nav6 {
+    background-image: url(../img/download.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    padding: 40px;
+}
+.col17 {
+    background-color: gray;
+    padding: 30px;
+    border-radius: 5px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+    color: aliceblue;
+}
+.col17 a{
+    text-decoration: none;
+    background-color: brown;
+    color: aliceblue;
+    padding: 10px 60px;
+    border-radius: 5px;
+}
+.a1 {
+    text-align: end;
+    margin-top: 25px;
+}
+.massage {
+    height: 200px;
+}
+.col18 ,.col19, .col20{
+    background-color: gray;
+    border-radius: 5px;
+    margin-bottom: 7px;
+    padding: 30px;
+    color: aliceblue;
 }
