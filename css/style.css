@@ -1,0 +1,146 @@
+.nav1 {
+    background-image: url(../img/download.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    height: 400px;
+}
+.icon1 svg{
+    margin-top: 30px;
+}
+.text1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.text1 h1{
+    border: 2px solid black;
+    width: 300px;
+    border-left: 0;
+    border-right: 0;
+    margin-top: 100px;
+}
+.text2 {
+    text-align: center;
+}
+.cont1 {
+    margin-top: 40px;
+    text-align: center;
+}
+#col2 a {
+    text-decoration: none;
+    background-color: brown;
+    color: aliceblue;
+    padding: 10px 60px;
+}
+.nav2 {
+    background-color: rgb(255, 226, 241);
+    margin-top: 8px;
+    text-align: center;
+    padding: 60px;
+}
+.nav2 svg {
+    color: aliceblue;
+}
+.col3 {
+    background-color: rgb(0, 143, 199);
+    padding: 90px;
+    margin-top: 7px;
+    margin-right: 7px;
+}
+.col4 {
+    background-color: rgb(174, 0, 255);
+    padding: 90px;
+    margin-top: 7px;
+    margin-right: 7px;
+}
+.col5 {
+    background-color: rgb(10, 0, 100);
+    padding: 90px;
+    margin-top: 7px;
+    margin-right: 7px;
+}
+.col6 {
+    background-color: rgb(255, 0, 55);
+    padding: 90px;
+    margin-top: 7px;
+    margin-right: 7px;
+}
+.nav2 a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.nav3 {
+    background-image: url(../img/download.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    padding: 40px;
+}
+.col7 ,.col8{
+    background-color: gray;
+    padding: 25px;
+    color: aliceblue;
+    margin-right: 7px;
+}
+.col9 {
+    background-color: rgb(0, 143, 199);
+    padding: 100px;
+    margin-right: 7px;
+    margin-top: 7px;
+}
+.col10 {
+    background-color: rgb(174, 0, 255);
+    padding: 100px;
+    margin-right: 7px;
+    margin-top: 7px;
+}
+.col11 {
+    background-color: rgb(10, 0, 100);
+    padding: 100px;
+    margin-right: 7px;
+    margin-top: 7px;
+}
+.col12 {
+    background-color: rgb(255, 0, 55);
+    padding: 100px;
+    margin-right: 7px;
+    margin-top: 7px;
+}
+.col13 {
+    background-color: rgb(174, 0, 255);
+    padding: 90px;
+    margin-top: 7px;
+}
+.col14 {
+    background-color: rgb(174, 0, 255);
+    padding: 90px;
+    margin-right: 7px;
+    margin-top: 7px;
+    padding-right: 97px;
+    
+}
+.col15 {
+    background-color: rgb(10, 0, 100);
+    padding: 90px;
+    margin-right: 7px;
+    margin-top: 7px;
+}
+.col16 {
+    background-color: rgb(255, 0, 55);
+    padding: 90px;
+    margin-right: 7px;
+    margin-top: 7px;
+}
+.nav4 {
+    background-color: rgb(255, 226, 241);
+    margin-top: 8px;
+    text-align: center;
+    padding: 60px;
+}
+.nav5 {
+    background-color: aquamarine;
+    margin-top: 8px;
+    padding: 60px;
+}
